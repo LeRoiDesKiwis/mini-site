@@ -1,8 +1,8 @@
 ---
-title: Ma page de recommandations
+title: "Ma page de recommandations"
 order: 0
+in_menu: true
 ---
-
 C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
 
 Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
@@ -27,20 +27,18 @@ Un exemple ci-dessous :
   </div>
 </article>
 
-## Pour écouter des émissions
-
-Quand je fais une pause, j'aime bien écouter un petit podcast avec :
+## Pour écrire des histoires
 
   <article class="framalibre-notice">
     <div>
-      <img src="https://beta.framalibre.org/images/logo/AntennaPod.png">
+      <img src="https://framalibre.org/images/logo/Manuskript.png">
     </div>
     <div>
-      <h2>AntennaPod</h2>
-      <p>Un gestionnaire de Podcast pour Android.</p>
+      <h2>Manuskript</h2>
+      <p>Ne vous racontez pas d'histoire, stimulez votre inspiration et composer votre récit et publiez-le!</p>
       <div>
-        <a href="https://beta.framalibre.org/notices/antennapod.html">Vers la notice Framalibre</a>
-        <a href="http://antennapod.org/">Vers le site</a>
+        <a href="https://framalibre.org/notices/manuskript.html">Vers la notice Framalibre</a>
+        <a href="http://www.theologeek.ch/manuskript/">Vers le site</a>
       </div>
     </div>
-  </article>
+  </article> 
